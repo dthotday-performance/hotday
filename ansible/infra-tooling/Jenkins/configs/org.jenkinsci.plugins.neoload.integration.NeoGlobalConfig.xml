@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jenkinsci.plugins.neoload.integration.NeoGlobalConfig_-DescriptorImpl plugin="neoload-jenkins-plugin@2.2.6">
+  <ntsInfo>
+    <org.jenkinsci.plugins.neoload.integration.supporting.NTSServerInfo>
+      <uniqueID>2bf1e902-3f61-4648-9e89-7e140516d600</uniqueID>
+      <url>https://neoload-rest.saas.neotys.com:443/nts</url>
+      <!-- #TODO change the login and password ----->
+      <loginUser>NL_WEB_LOGIN_PLACEHOLDER</loginUser>
+      <loginPassword>=?UTF-8?B?YThlOGYwYzVhNGY5MGMwMmJmZGRjYjY4ODFlN2Y2ODExZGEyNjg2NDg3OWE3YmQ2?=</loginPassword>
+      <label>NeoLoad Demo License</label>
+      <collabPath></collabPath>
+      <licenseID>MC0CFBQ26nIHJON7oUiPwc8CvtE2DjezAhUAhkBIzFc29Pay7osLwiHU+1DxoYA=</licenseID>
+    </org.jenkinsci.plugins.neoload.integration.supporting.NTSServerInfo>
+  </ntsInfo>
+  <collabInfo/>
+  <defaultExecutable>/usr/local/neoload/bin/NeoLoadCmd</defaultExecutable>
+</org.jenkinsci.plugins.neoload.integration.NeoGlobalConfig_-DescriptorImpl>

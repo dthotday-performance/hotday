@@ -1,0 +1,14 @@
+{
+    "jenkinsUser": "admin",
+    "jenkinsPassword": "AiTx4u8VyUV8tCKk",
+    "dynatraceTenant": "DYNATRACE_TENANT_PLACEHOLDER",
+    "dtaccountid": "DT_ACCOUNTID_PLACEHOLDER",
+    "nlwebapikey": "NL_WEB_API_KEY_PLACEHOLDER",
+    "nlwebloginaccount" : "NLWEBUSER_PLACEHOLDER",
+    "dynatraceApiToken": "DYNATRACE_API_TOKEN",
+    "dynatracePaaSToken": "DYNATRACE_PAAS_TOKEN",
+    "githubUserName": "GITHUB_USER_NAME_PLACEHOLDER",
+    "githubPersonalAccessToken": "PERSONAL_ACCESS_TOKEN_PLACEHOLDER",
+    "githubUserEmail": "GITHUB_USER_EMAIL_PLACEHOLDER",
+    "githubOrg": "GITHUB_ORG_PLACEHOLDER"
+}

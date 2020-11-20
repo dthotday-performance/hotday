@@ -1,0 +1,16 @@
+---
+user: user01
+password: $6$fQyKJ6bhesOj1zEs$yHS/HqbUp5urrmyk8btPf6F83/TA0ShPJyTuYtk79QdrQQGn2AHgCZ/hvl7uJKSKH0i.JMpPekPVnC5iYt6nW0
+jenkins:
+  repo_URL: "deb http://pkg.jenkins-ci.org/debian binary/"
+  gpg_key: "http://pkg.jenkins-ci.org/debian/jenkins-ci.org.key"
+  jenkins_repo_url: "deb https://pkg.jenkins.io/debian binary/"
+  jenkins_repo_key_url: "https://pkg.jenkins.io/debian/jenkins.io.key"
+update_apt_cache: yes  
+docker:
+  repo_URL: "deb [arch=amd64] https://download.docker.com/linux/ubuntu {{ansible_distribution_release}} stable"
+  gpg_key: "https://download.docker.com/linux/ubuntu/gpg"
+java:
+  repo: "ppa:openjdk-r/ppa" 
+git:
+  repo: "https://github.com/dthotday-performance/hotday.git"   

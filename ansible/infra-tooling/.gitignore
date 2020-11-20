@@ -1,0 +1,8 @@
+.terraform/
+*.pem
+terraform.tfstate*
+notes
+creds.json
+creds.json.bak
+.terraform.tfstate.lock.info
+scripts/.DS_Store
